@@ -8,7 +8,7 @@ public class ExemploMatrizesMetodos {
 		System.out.println("*- Tamanho da Matriz -*"); // print na tela para melhor entendimento do processo
 		Scanner input = new Scanner(System.in); // instanciando o objeto de entrada dos dados
 		int[] vetor = new int[2]; // instanciando uma lista chamada "vetor"
-		System.out.println("Linhas: "); // print na tela para indicar que sera digitado a quantidade de linhas dessa
+		System.out.println("Linhas: "); // print na tela para indicar que sera digitado a quantidade de linhas desssa
 										// matriz
 		vetor[0] = input.nextInt(); // usuario insere os dados através do input na lista "vetor"
 		System.out.println("Colunas: "); // print na tela para indicar que sera digitado a quantidade de colunas dessa
