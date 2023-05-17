@@ -3,7 +3,7 @@ package AulaArrayList;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class arrayList {
+public class exemplo {
 
     public static void main(String[] args) {
         ArrayList<String> carros = new ArrayList<String>();
